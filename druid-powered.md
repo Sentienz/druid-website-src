@@ -492,6 +492,11 @@ We introduced Druid to our technology stack while developing our new supply chai
 
 We are using Druid as our single source of truth for both realtime statistics and data analysis. Our clients can see and filter detailed metrics in our [self-service DSP](https://www.sage-archer.com). The DSP is used for mobile and digital-out-of-home advertising campaigns. Druid is powering both the front-end and the optimization algorithms within the system.
 
+
+## Sentienz + Akiro
+
+In [Sentienz](https://sentienz.com/), we are using Druid for realtime analytics and lambda for the IoT and Media data for our product [Akiro](https://theakiro.com/). Druid gives us the flexibility in realtime ingestion and latency sensitive analytics on timeseries data, OTT/Quad play media data at a scale of Billions of records a day. 
+
 ## Sift Science
 
 Sift Science provides an online trust platform that online businesses use to prevent fraud and abuse. We use Druid as a tool to gain real-time insights about our data and machine learning models.
